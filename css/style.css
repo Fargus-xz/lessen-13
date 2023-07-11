@@ -171,3 +171,10 @@ header {
 .main_block_second_text h5 {
   /* display: flex; */
 }
+
+
+.github {
+  background: url("../image/banner.png") center / cover;
+  width: 700px;
+  height: 600px;
+}
